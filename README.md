@@ -1,1 +1,1 @@
-# Moments-cin-tiques-et-Sym-tries
+# Moments cinétiques et Symétries
